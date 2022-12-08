@@ -1,0 +1,26 @@
+ .u-section-1 {
+  background-image: url("images/2.gif");
+  background-position: 50% 50%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 50vw;
+}
+
+.u-section-1 .u-image-1 {
+  width: 149px;
+  height: 35px;
+  margin: 533px auto 60px 464px;
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-image-1 {
+    margin-left: 391px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    margin-left: 191px;
+  }
+}
